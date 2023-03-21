@@ -66,7 +66,7 @@ def main():
     FPSCLOCK = pygame.time.Clock()
     SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
     # FONTS['font'] = pygame.font.SysFont('Arial', 12)
-    pygame.display.set_caption('Flappy Bird')
+    pygame.display.set_caption('Flappy Bird by Astra')
 
     # numbers sprites for score display
     IMAGES['numbers'] = (

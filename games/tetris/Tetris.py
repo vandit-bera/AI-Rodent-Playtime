@@ -488,6 +488,6 @@ def main_menu(window):
 
 if __name__ == '__main__':
     win = pygame.display.set_mode((s_width, s_height))
-    pygame.display.set_caption('Tetris')
+    pygame.display.set_caption('Tetris by Astra')
 
     main_menu(win)  # start game
